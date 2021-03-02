@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/css" href = "xmlstyle.css" ?>
+<songs>
+	<song>
+        <title>Warriors</title>
+		<artists>Imagine Dragons</artists>
+		<genre>Alternative/Indie</genre>
+		<year>2014</year>
+
+	</song>
+	<song>
+        <title>Rise	</title>
+		<artists>Mako, The Glitch Mob, The Word Alive</artists>
+		<genre>Alternative/Indie</genre>
+		<year>2018</year>
+
+	</song>
+
+	<song>
+        <title>Thunderstruck</title>
+		<artists>AC/DC</artists>
+		<genre>Heavy metal, Hard rock</genre>
+		<year>1990</year>
+
+	</song>
+
+	<song>
+        <title>The Four Seasons</title>
+		<artists>Antonio Vivaldi</artists>
+		<genre>Baroque Concerto</genre>
+		<year>1723</year>
+
+	</song>
+
+	<song>
+        <title>POP/STARS</title>
+		<artists>K/DA: Featuring Madison Beer, Jaira Burns, (G)I-DLE</artists>
+		<genre>K-pop, Dance-pop, Pop </genre>
+		<year>2018</year>
+
+	</song>
+
+	<song>
+        <title>Legends Never Die</title>
+		<artists>Against the Current</artists>
+		<genre>Alternative/Indie</genre>
+		<year>2017</year>
+
+	</song>
+
+	<song>
+        <title>He's a Pirate</title>
+		<artists>Klaus Badelt and Hans Zimmer</artists>
+		<genre>Soundtrack</genre>
+		<year>2003</year>
+
+	</song>
+
+	<song>
+        <title>Awaken</title>
+		<artists>Valerie Broussard, Pentakill, Ray Chen</artists>
+		<genre>Alternative/Indie</genre>
+		<year>2019</year>
+
+	</song>
+
+	<song>
+        <title>Phoenix</title>
+		<artists>Chrissy Costanza, Cailin Russo, Pentakill</artists>
+		<genre>Pop</genre>
+		<year>2019</year>
+
+	</song>
+
+	<song>
+        <title>Worlds Collide</title>
+		<artists>Nicki Taylor</artists>
+		<genre>Dance/Electronic</genre>
+		<year>2016</year>
+
+	</song>
+
+	<song>
+        <title>Take Over</title>
+		<artists>Jeremy McKinnon, Max Schneider, Henry Lau</artists>
+		<genre>Pop</genre>
+		<year>2020</year>
+
+	</song>
+
+	<song>
+        <title>MORE</title>
+		<artists>K/DA: Featuring Madison Beer, Jaira Burns, (G)I-DLE, Lexie Liu, Seraphine</artists>
+		<genre>K-pop</genre>
+		<year>2020</year>
+
+	</song>
+
+</songs>

@@ -1,0 +1,14 @@
+song {display:block; border-bottom: 1px solid #FF0000; padding : 8px 30px;}
+song title {font-size: 30px; font-weight: 700; color: #0009FF}
+song title {display:block;}
+
+song artists{font-size: 18px; font-weight: 690}
+song artists{display:block;}
+song artists:before {content:"By: ";}
+
+song genre{font-size: 15px;}
+song genre{display:block;}
+song genre:before {content:"Genre: ";}
+
+song year{font-size: 15px;}
+song year{display:block;}
