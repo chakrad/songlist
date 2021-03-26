@@ -67,5 +67,19 @@
 		"Title": "Worlds Collide",
 		"Genre": ["Dance/Electronic"],
 		"release_year": 2016
+	},
+	
+	{
+		"Artist": ["Jeremy McKinnon", "Max Schneider", "Henry Lau"],
+		"Title": "Take Over",
+		"Genre": ["Pop"],
+		"release_year": 2020
+	},
+	
+	{
+		"Artist": ["K/DA", "Madison Beer", "Jaira Burns", "(G)I-DLE", "Lexie Liu", "Seraphine"],
+		"Title": "MORE",
+		"Genre": ["K-pop"],
+		"release_year": 2020
 	}
 ]
