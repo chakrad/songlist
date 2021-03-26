@@ -1,85 +1,85 @@
 [
   	{
-		"artists": ["Imagine Dragons"],
-		"title": "Warriors",
-		"genres": ["Alternative/Indie"],
-		"year": 2014
+		"Artist": ["Imagine Dragons"],
+		"Title": "Warriors",
+		"Genre": ["Alternative/Indie"],
+		"release_year": 2014
 	},
 	
   	{
-		"artists": ["Mako", "The Glitch Mob", "The Word Alive"],
-		"title": "Rise",
-		"genres": ["Alternative/Indie"],
-		"year": 2018
+		"Artist": ["Mako", "The Glitch Mob", "The Word Alive"],
+		"Title": "Rise",
+		"Genre": ["Alternative/Indie"],
+		"release_year": 2018
 	},
 	
   	{
-		"artists": ["AC/DC"],
-		"title": "Thunderstruck",
-		"genres": ["Heavy metal","Hard rock"],
-		"year": 1990
+		"Artist": ["AC/DC"],
+		"Title": "Thunderstruck",
+		"Genre": ["Heavy metal","Hard rock"],
+		"release_year": 1990
 	},
 	
 	{
-		"artists": ["Antonio Vivaldi"],
-		"title": "The Four Seasons",
-		"genres": ["Baroque Concerto"],
-		"year": 1723
+		"Artist": ["Antonio Vivaldi"],
+		"Title": "The Four Seasons",
+		"Genre": ["Baroque Concerto"],
+		"release_year": 1723
 	},
 	
 	{
-		"artists": ["K/DA", "Madison Beer", "Jaira Burns", "(G)I-DLE"],
-		"title": "POP/STARS",
-		"genres": ["K-pop","Dance-pop","Pop"],
-		"year": 2018
+		"Artist": ["K/DA", "Madison Beer", "Jaira Burns", "(G)I-DLE"],
+		"Title": "POP/STARS",
+		"Genre": ["K-pop","Dance-pop","Pop"],
+		"release_year": 2018
 	},
 	
 	{
-		"artists": ["Against the Current"],
-		"title": "Legends Never Die",
-		"genres": ["Alternative/Indie"],
-		"year": 2017
+		"Artist": ["Against the Current"],
+		"Title": "Legends Never Die",
+		"Genre": ["Alternative/Indie"],
+		"release_year": 2017
 	},
 	
 	{
-		"artists": ["Klaus Badelt", "Hans Zimmer"],
-		"title": "He's a Pirate",
-		"genres": ["Soundtrack"],
-		"year": 2003
+		"Artist": ["Klaus Badelt", "Hans Zimmer"],
+		"Title": "He's a Pirate",
+		"Genre": ["Soundtrack"],
+		"release_year": 2003
 	},
 	
 	{
-		"artists": ["Valerie Broussard", "Pentakill", "Ray Chen"],
-		"title": "Awaken",
-		"genres": ["Alternative/Indie"],
-		"year": 2019
+		"Artist": ["Valerie Broussard", "Pentakill", "Ray Chen"],
+		"Title": "Awaken",
+		"Genre": ["Alternative/Indie"],
+		"release_year": 2019
 	},
 	
 	{
-		"artists": ["Chrissy Costanza", "Cailin Russo"],
-		"title": "Phoenix",
-		"genres": ["Pop"],
-		"year": 2019
+		"Artist": ["Chrissy Costanza", "Cailin Russo"],
+		"Title": "Phoenix",
+		"Genre": ["Pop"],
+		"release_year": 2019
 	},
 	
 	{
-		"artists": ["Nicki Taylor"],
-		"title": "Worlds Collide",
-		"genres": ["Dance/Electronic"],
-		"year": 2016
+		"Artist": ["Nicki Taylor"],
+		"Title": "Worlds Collide",
+		"Genre": ["Dance/Electronic"],
+		"release_year": 2016
 	},
 	
 	{
-		"artists": ["Jeremy McKinnon", "Max Schneider", "Henry Lau"],
-		"title": "Take Over",
-		"genres": ["Pop"],
-		"year": 2020
+		"Artist": ["Jeremy McKinnon", "Max Schneider", "Henry Lau"],
+		"Title": "Take Over",
+		"Genre": ["Pop"],
+		"release_year": 2020
 	},
 	
 	{
-		"artists": ["K/DA", "Madison Beer", "Jaira Burns", "(G)I-DLE", "Lexie Liu", "Seraphine"],
-		"title": "MORE",
-		"genres": ["K-pop"],
-		"year": 2020
+		"Artist": ["K/DA", "Madison Beer", "Jaira Burns", "(G)I-DLE", "Lexie Liu", "Seraphine"],
+		"Title": "MORE",
+		"Genre": ["K-pop"],
+		"release_year": 2020
 	}
 ]
