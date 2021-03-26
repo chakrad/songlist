@@ -1,84 +1,84 @@
 [
   	{
-		"Artist": ["Imagine Dragons"],
-		"Title": "Warriors",
+		"artists": ["Imagine Dragons"],
+		"title": "Warriors",
 		"Genre": ["Alternative/Indie"],
 		"release_year": 2014
 	},
 	
   	{
-		"Artist": ["Mako", "The Glitch Mob", "The Word Alive"],
-		"Title": "Rise",
+		"artists": ["Mako", "The Glitch Mob", "The Word Alive"],
+		"title": "Rise",
 		"Genre": ["Alternative/Indie"],
 		"release_year": 2018
 	},
 	
   	{
-		"Artist": ["AC/DC"],
-		"Title": "Thunderstruck",
+		"artists": ["AC/DC"],
+		"title": "Thunderstruck",
 		"Genre": ["Heavy metal","Hard rock"],
 		"release_year": 1990
 	},
 	
 	{
-		"Artist": ["Antonio Vivaldi"],
-		"Title": "The Four Seasons",
+		"artists": ["Antonio Vivaldi"],
+		"title": "The Four Seasons",
 		"Genre": ["Baroque Concerto"],
 		"release_year": 1723
 	},
 	
 	{
-		"Artist": ["K/DA", "Madison Beer", "Jaira Burns", "(G)I-DLE"],
-		"Title": "POP/STARS",
+		"artists": ["K/DA", "Madison Beer", "Jaira Burns", "(G)I-DLE"],
+		"title": "POP/STARS",
 		"Genre": ["K-pop","Dance-pop","Pop"],
 		"release_year": 2018
 	},
 	
 	{
-		"Artist": ["Against the Current"],
-		"Title": "Legends Never Die",
+		"artists": ["Against the Current"],
+		"title": "Legends Never Die",
 		"Genre": ["Alternative/Indie"],
 		"release_year": 2017
 	},
 	
 	{
-		"Artist": ["Klaus Badelt", "Hans Zimmer"],
-		"Title": "He's a Pirate",
+		"artists": ["Klaus Badelt", "Hans Zimmer"],
+		"title": "He's a Pirate",
 		"Genre": ["Soundtrack"],
 		"release_year": 2003
 	},
 	
 	{
-		"Artist": ["Valerie Broussard", "Pentakill", "Ray Chen"],
-		"Title": "Awaken",
+		"artists": ["Valerie Broussard", "Pentakill", "Ray Chen"],
+		"title": "Awaken",
 		"Genre": ["Alternative/Indie"],
 		"release_year": 2019
 	},
 	
 	{
-		"Artist": ["Chrissy Costanza", "Cailin Russo"],
-		"Title": "Phoenix",
+		"artists": ["Chrissy Costanza", "Cailin Russo"],
+		"title": "Phoenix",
 		"Genre": ["Pop"],
 		"release_year": 2019
 	},
 	
 	{
-		"Artist": ["Nicki Taylor"],
-		"Title": "Worlds Collide",
+		"artists": ["Nicki Taylor"],
+		"title": "Worlds Collide",
 		"Genre": ["Dance/Electronic"],
 		"release_year": 2016
 	},
 	
 	{
-		"Artist": ["Jeremy McKinnon", "Max Schneider", "Henry Lau"],
-		"Title": "Take Over",
+		"artists": ["Jeremy McKinnon", "Max Schneider", "Henry Lau"],
+		"title": "Take Over",
 		"Genre": ["Pop"],
 		"release_year": 2020
 	},
 	
 	{
-		"Artist": ["K/DA", "Madison Beer", "Jaira Burns", "(G)I-DLE", "Lexie Liu", "Seraphine"],
-		"Title": "MORE",
+		"artists": ["K/DA", "Madison Beer", "Jaira Burns", "(G)I-DLE", "Lexie Liu", "Seraphine"],
+		"title": "MORE",
 		"Genre": ["K-pop"],
 		"release_year": 2020
 	}
