@@ -11,10 +11,10 @@
 
 <body >
 
-	<h1>Cover Band</h1>
-	<h2>Part 2</h2>
+	<h1>Cover Band Song List</h1>
+	<h2>Serialize Display:</h2>
 	<div id = "part_2"></div>
-	<h2>Part 3/4 </h2>
+	<h2>User Friendly Display and Filter:</h2>
 	<div id = "part_4"></div>
 	<div id = "list"></div>
 
@@ -50,7 +50,7 @@
 					/* display title, artist*/
 					list += "<b>" + song.Title + "</b> </br>"
 				    +  "Artist: " + song.Artist + "</br>"
-				    +  "Genre:" ;
+				    +  "Genre: " ;
 				    genre_str = "";
 				    /* display genres */
 				    song.Genre.forEach(function(genre) { 
@@ -68,7 +68,7 @@
 		}
 		
 
-		$.get( "songlist.json", 
+		$.get( "https://chakrad.github.io/songlist/songlist.json", 
 			function( data ) {
 				/* Part 2: Serialize and display */
 				json_str = JSON.stringify(data);
@@ -82,7 +82,7 @@
 					/* display title, artist*/
 					songlist += "<b>" + song.Title + "</b> </br>"
 				    +  "Artist: " + song.Artist + "</br>"
-				    +  "Genre:" ;
+				    +  "Genre: " ;
 				    genre_str = "";
 				    /* display genres */
 				    song.Genre.forEach(function(genre) { 
