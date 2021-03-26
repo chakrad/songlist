@@ -1,86 +1,12 @@
 [
-	{
-	"title": "Warriors",
-	"artists": "Imagine Dragons",
-	"genres": ["Alternative/Indie"],
-	"year": 2014
-},
-
-{
-	"title": "Rise",
-	"artists": "Mako, The Glitch Mob, The Word Alive",
-	"genres": ["Alternative/Indie"],
-	"year": 2018
-},
-
-{
-	"title": "Thunderstruck",
-	"artists": "AC/DC",
-	"genres": ["Heavy metal","Hard rock"],
-	"year": 1990
-},
-
-{
-	"title": "The Four Seasons",
-	"artists": "Antonio Vivaldi",
-	"genres": ["Baroque Concerto"],
-	"year": 1723
-},
-
-{
-	"title": "POP/STARS",
-	"artists": "K/DA: Featuring Madison Beer, Jaira Burns, (G)I-DLE",
-	"genres": ["K-pop","Dance-pop","Pop"],
-	"year": 2018
-},
-
-{
-	"title": "Legends Never Die",
-	"artists": "Against the Current",
-	"genres": ["Alternative/Indie"],
-	"year": 2017
-},
-
-{
-	"title": "He's a Pirate",
-	"artists": "Klaus Badelt and Hans Zimmer",
-	"genres": ["Soundtrack"],
-	"year": 2003
-},
-
-{
-	"title": "Awaken",
-	"artists": "Valerie Broussard, Pentakill, Ray Chen",
-	"genres": ["Alternative/Indie"],
-	"year": 2019
-},
-
-{
-	"title": "Phoenix",
-	"artists": "Chrissy Costanza, Cailin Russo",
-	"genres": ["Pop"],
-	"year": 2019
-},
-
-{
-	"title": "Worlds Collide",
-	"artists": "Nicki Taylor",
-	"genres": ["Dance/Electronic"],
-	"year": 2016
-},
-
-{
-	"title": "Take Over",
-	"artists": "Jeremy McKinnon, Max Schneider, Henry Lau",
-	"genres": ["Pop"],
-	"year": 2020
-},
-
-{
-	"title": "MORE",
-	"artists": "K/DA: Featuring Madison Beer, Jaira Burns, (G)I-DLE, Lexie Liu, Seraphine",
-	"genres": ["K-pop"],
-	"year": 2020
-}
+  	{"Artist": ["LYn"], "Title":"My Destiny", "Genre" : ["K-Pop"], "release_year": 2015},
+  	{"Artist": ["IU"], "Title":"Bbibbi", "Genre" : ["Alt-R&B"], "release_year": 2018},
+  	{"Artist": ["Kim Hyun-a"], "Title":"Flower Shower", "Genre" : ["K-Pop"], "release_year": 2019},
+	{"Artist": ["Wanna One"], "Title":"Beautiful", "Genre" : ["EDM"], "release_year": 2017},
+	{"Artist": ["Luna"], "Title":"Free Somebody", "Genre" : ["Electropop","‎R&B‎"], "release_year": 2016},
+	{"Artist": ["G-Dragon"], "Title":"Superstar", "Genre" : ["K-Pop"], "release_year": 2017},
+	{"Artist": ["Blackpink"], "Title":"DDU-DU DDU-DU", "Genre" : ["K-Pop"], "release_year": 2018},
+	{"Artist": ["Kim Tae-yeon"], "Title":"I", "Genre" : ["‎R&B‎"], "release_year": 2015},
+	{"Artist": ["Hwasa"], "Title":"Maria", "Genre" : ["K-Pop","‎R&B‎"], "release_year": 2020},
+	{"Artist": ["Hyolyn"], "Title":"ONE WAY LOVE", "Genre" : ["‎R&B‎"], "release_year": 2013}
 ]
-
