@@ -1,71 +1,71 @@
 [
   	{
-		"Artist": ["LYn"],
-		"Title":"My Destiny",
-		"Genre" : ["K-Pop"],
-		"release_year": 2015
+		"Artist": ["Imagine Dragons"],
+		"Title": "Warriors",
+		"Genre": ["Alternative/Indie"],
+		"release_year": 2014
 	},
 	
   	{
-		"Artist": ["IU"],
-		"Title":"Bbibbi",
-		"Genre" : ["Alt-R&B"],
+		"Artist": ["Mako", "The Glitch Mob", "The Word Alive"],
+		"Title": "Rise",
+		"Genre": ["Alternative/Indie"],
 		"release_year": 2018
 	},
 	
   	{
-		"Artist": ["Kim Hyun-a"],
-		"Title":"Flower Shower",
-		"Genre" : ["K-Pop"],
+		"Artist": ["AC/DC"],
+		"Title": "Thunderstruck",
+		"Genre": ["Heavy metal","Hard rock"],
+		"release_year": 1990
+	},
+	
+	{
+		"Artist": ["Antonio Vivaldi"],
+		"Title": "The Four Seasons",
+		"Genre": ["Baroque Concerto"],
+		"release_year": 1723
+	},
+	
+	{
+		"Artist": ["K/DA", "Madison Beer", "Jaira Burns", "(G)I-DLE"],
+		"Title": "POP/STARS",
+		"Genre": ["K-pop","Dance-pop","Pop"],
+		"release_year": 2018
+	},
+	
+	{
+		"Artist": ["Against the Current"],
+		"Title": "Legends Never Die",
+		"Genre": ["Alternative/Indie"],
+		"release_year": 2017
+	},
+	
+	{
+		"Artist": ["Klaus Badelt", "Hans Zimmer"],
+		"Title": "He's a Pirate",
+		"Genre": ["Soundtrack"],
+		"release_year": 2003
+	},
+	
+	{
+		"Artist": ["Valerie Broussard", "Pentakill", "Ray Chen"],
+		"Title": "Awaken",
+		"Genre": ["Alternative/Indie"],
 		"release_year": 2019
 	},
 	
 	{
-		"Artist": ["Wanna One"],
-		"Title":"Beautiful",
-		"Genre" : ["EDM"],
-		"release_year": 2017
+		"Artist": ["Chrissy Costanza", "Cailin Russo"],
+		"Title": "Phoenix",
+		"Genre": ["Pop"],
+		"release_year": 2019
 	},
 	
 	{
-		"Artist": ["Luna"],
-		"Title":"Free Somebody",
-		"Genre" : ["Electropop","‎R&B‎"],
+		"Artist": ["Nicki Taylor"],
+		"Title": "Worlds Collide",
+		"Genre": ["Dance/Electronic"],
 		"release_year": 2016
-	},
-	
-	{
-		"Artist": ["G-Dragon"],
-		"Title":"Superstar",
-		"Genre" : ["K-Pop"],
-		"release_year": 2017
-	},
-	
-	{
-		"Artist": ["Blackpink"],
-		"Title":"DDU-DU DDU-DU",
-		"Genre" : ["K-Pop"],
-		"release_year": 2018
-	},
-	
-	{
-		"Artist": ["Kim Tae-yeon"],
-		"Title":"I",
-		"Genre" : ["‎R&B‎"],
-		"release_year": 2015
-	},
-	
-	{
-		"Artist": ["Hwasa"],
-		"Title":"Maria",
-		"Genre" : ["K-Pop","‎R&B‎"],
-		"release_year": 2020
-	},
-	
-	{
-		"Artist": ["Hyolyn"],
-		"Title":"ONE WAY LOVE",
-		"Genre" : ["‎R&B‎"],
-		"release_year": 2013
 	}
 ]
