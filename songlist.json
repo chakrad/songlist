@@ -1,0 +1,86 @@
+[
+	{
+	"title": "Warriors",
+	"artists": "Imagine Dragons",
+	"genres": ["Alternative/Indie"],
+	"year": 2014
+},
+
+{
+	"title": "Rise",
+	"artists": "Mako, The Glitch Mob, The Word Alive",
+	"genres": ["Alternative/Indie"],
+	"year": 2018
+},
+
+{
+	"title": "Thunderstruck",
+	"artists": "AC/DC",
+	"genres": ["Heavy metal","Hard rock"],
+	"year": 1990
+},
+
+{
+	"title": "The Four Seasons",
+	"artists": "Antonio Vivaldi",
+	"genres": ["Baroque Concerto"],
+	"year": 1723
+},
+
+{
+	"title": "POP/STARS",
+	"artists": "K/DA: Featuring Madison Beer, Jaira Burns, (G)I-DLE",
+	"genres": ["K-pop","Dance-pop","Pop"],
+	"year": 2018
+},
+
+{
+	"title": "Legends Never Die",
+	"artists": "Against the Current",
+	"genres": ["Alternative/Indie"],
+	"year": 2017
+},
+
+{
+	"title": "He's a Pirate",
+	"artists": "Klaus Badelt and Hans Zimmer",
+	"genres": ["Soundtrack"],
+	"year": 2003
+},
+
+{
+	"title": "Awaken",
+	"artists": "Valerie Broussard, Pentakill, Ray Chen",
+	"genres": ["Alternative/Indie"],
+	"year": 2019
+},
+
+{
+	"title": "Phoenix",
+	"artists": "Chrissy Costanza, Cailin Russo",
+	"genres": ["Pop"],
+	"year": 2019
+},
+
+{
+	"title": "Worlds Collide",
+	"artists": "Nicki Taylor",
+	"genres": ["Dance/Electronic"],
+	"year": 2016
+},
+
+{
+	"title": "Take Over",
+	"artists": "Jeremy McKinnon, Max Schneider, Henry Lau",
+	"genres": ["Pop"],
+	"year": 2020
+},
+
+{
+	"title": "MORE",
+	"artists": "K/DA: Featuring Madison Beer, Jaira Burns, (G)I-DLE, Lexie Liu, Seraphine",
+	"genres": ["K-pop"],
+	"year": 2020
+}
+]
+
