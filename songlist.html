@@ -11,10 +11,10 @@
 
 <body >
 
-	<h1>Cover Band Song List</h1>
-	<h2>Serialize Display:</h2>
+	<h1>Cover Band</h1>
+	<h2>Part 2</h2>
 	<div id = "part_2"></div>
-	<h2>User Friendly Display and Filter:</h2>
+	<h2>Part 3/4 </h2>
 	<div id = "part_4"></div>
 	<div id = "list"></div>
 
@@ -47,12 +47,10 @@
 			
 			temp.forEach(function(song) { 
 				if( type == "ALL" || song.Genre.includes(type) ){
-					/* display title, artist*/
-					list += "<b>" + song.Title + "</b> </br>"
-				    +  "Artist: " + song.Artist + "</br>"
+					list += "<b>" + song.title + "</b> </br>"
+				    +  "Artist: " + song.artists + "</br>"
 				    +  "Genre: " ;
 				    genre_str = "";
-				    /* display genres */
 				    song.Genre.forEach(function(genre) { 
 				    	genre_str += genre + ", ";
 				    	if(genre_list.includes(genre) == false){
@@ -61,7 +59,7 @@
 				    })
 				    list += genre_str.substring(0, genre_str.length-2);
 				    /* display released year */
-				    list += "</br>" +  "Released " + song.release_year + "</br></br>";
+				    list += "</br>" +  "Released " + song.year + "</br></br>";
 				}
 			}) 
 			return list;
@@ -70,35 +68,31 @@
 
 		$.get( "https://chakrad.github.io/songlist/songlist.json", 
 			function( data ) {
-				/* Part 2: Serialize and display */
+				//Part2
 				json_str = JSON.stringify(data);
-				//Display all data on page (serialized) as a raw string
 				document.getElementById("part_2").innerHTML = json_str;
 
-				/* Part 3: User friendly display  */
+				//Part3
 				songlist= "";
 				temp = data;
 				data.forEach(function(song) { 
-					/* display title, artist*/
-					songlist += "<b>" + song.Title + "</b> </br>"
-				    +  "Artist: " + song.Artist + "</br>"
+					songlist += "<b>" + song.title + "</b> </br>"
+				    +  "Artist: " + song.artists + "</br>"
 				    +  "Genre: " ;
 				    genre_str = "";
-				    /* display genres */
-				    song.Genre.forEach(function(genre) { 
+				   song.Genre.forEach(function(genre) { 
 				    	genre_str += genre + ", ";
 				    	if(genre_list.includes(genre) == false){
 				    		genre_list.push(genre);
 				    	}
 				    })
 				    songlist += genre_str.substring(0, genre_str.length-2);
-				    /* display released year */
-				    songlist += "</br>" +  "Released " + song.release_year + "</br></br>";
+				   songlist += "</br>" +  "Made in " + song.year + "</br></br>";
 				}) 
 				
 				songlist += "</ul>";
 
-				/* Part 4: Filter the data */
+				//part4
 				form = "<form> ";
 				form += makeSelect("Genres", genre_list);
 				form += "<button id =\"btn\" type = 'button'>Filter</button></form>";
@@ -121,9 +115,6 @@
 
 		
 	</script>
-
-
-	
 
 </body>
 </html>
